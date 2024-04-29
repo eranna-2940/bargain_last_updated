@@ -72,7 +72,7 @@ function App() {
 
   return (
     <>
-      <BrowserRouter basename="bargain_db">
+      <BrowserRouter basename="bargain_today">
         <Scrolltotop />
         <Routes>
           {/* Login routes */}
