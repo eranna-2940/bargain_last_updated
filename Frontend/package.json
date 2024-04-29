@@ -1,7 +1,7 @@
 {
   "name": "bargain",
   "version": "0.1.0",
-  "homepage": "https://eranna-2940.github.io/bargain_today",
+  "homepage": "https://eranna-2940.github.io/bargain_last",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
